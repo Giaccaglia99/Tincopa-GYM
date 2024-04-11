@@ -20,12 +20,9 @@
     z-index: 100;
 }    
 .header-title{
+    color: black;
     width: 50%;
     font-size: 15px;
-    background: black;
-    background-size: cover;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
     margin-left: 10px;
 }
 .bi{
@@ -112,10 +109,6 @@
 }
 .footer__title{
     font-size: 20px;
-    background: linear-gradient(to right, #f5f2f2, #d3d1ce, #81807e);
-    background-size: cover;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
 }
 
 
